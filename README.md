@@ -50,7 +50,7 @@
 
 Berikut adalah tampilan dashboard yang sudah dibangun:
 
-![Dashboard](img/Dashboard informasi.png)
+![Dashboard](img/Dashboard%20informasi.png)
 
 <br></br>
 
@@ -62,22 +62,22 @@ Berikut adalah tampilan dashboard yang sudah dibangun:
 ## B. Cloropleth
 <p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warna pada visualisasi data persebaran COVID-19 di Indonesia menggambarkan total kasus terkonfirmasi COVID-19, dengan total kasus terbanyak digambarkan dengan perubahan warna dari merah sampai biru.</p>
 
-![cloro](img/cloropleth gabungan.png)
+![cloro](img/cloropleth%20gabungan.png)
 
 ## B. Line Chart
 <p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tren menaik pada visualisas data total kematian COVID-19 di Indonesia menggambarakan total kematian yang terus bertambah tiap bulannya. Sedangkan, tren menurun menggambarkan total kematian yang berkurang</p>
 
-![line](img/total kematian gabungan.png)
+![line](img/total%20kematian%20gabungan.png)
 
 ## C. Barchart perbandingan
 <p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warna biru pada visualisasi data menggambarkan total kasus terkonfirmasi COVID-19 di Indonesia. Sedangkan, warna jingga pada visualisasi data menggambarkan total recovery</p>
 
-![bar](img/perbandingan total kasus dan total recovered gabungan.png)
+![bar](img/perbandingan%20total%20kasus%20dan%20total%20recovered%20gabungan.png)
 
 ## C. Barchart proporsi
 <p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warna merah pada visualisasi data menggambarkan proporsi kematian yang disebabkan COVID-19 Sedangkan, warna jingga pada visualisasi data menggambarkan proporsi recovery</p>
 
-![bar](img/proporsi total death dan total recovered gabungan.png)
+![bar](img/proporsi%20total%20death%20dan%20total%20recovered%20gabungan.png)
 
 <br></br>
 
