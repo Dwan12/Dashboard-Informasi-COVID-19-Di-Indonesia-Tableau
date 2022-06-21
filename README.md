@@ -1,123 +1,87 @@
-<h1 align='center'> DASHBOARD INFORMASI GEMPA BUMI DI WILAYAH TERITORIAL INDONESIA TAHUN 2017-2021 </h1>
+<h1 align='center'> DASHBOARD INFORMASI COVID-19 DI SELURUH PROVINSI INDONESIA TAHUN 2020-2021 </h1>
 <br></br>
 
 <h2 align='center'>BAB 1 <br/> PENDAHULUAN</h2>
 
 ## A. Latar Belakang
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Indonesia terletak di daerah rawan gempa bumi karena dilalui oleh 3 lempeng tektotik, yaitu: lempeng Indo Australia, lempeng Eurasia, dan lempeng pasifik. Pertemuan ketiga lempeng tersebut berada di bawah laut sehingga apabila gempa yang terjadi memiliki kekuatan yang besar maka akan berpotensi menimbulkan tsunami. Selain dapat menyebabkan tsunami, gempa bumi juga dapat menyebabkan likuifaksi, tanah longsor, dan bahaya sekunder seperti arus pendek listrik serta kebocoran gas yang dapat menyebabkan kebakaran.
-<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Berdasarkan data BMKG, rata-rata kejadian gempa bumi di Indonesia sejak tahun 2008 sampai 2020 mengalami kenaikan dan penurunan yang dinamis. Gempa bumi merupakan peristiwa alam yang tidak dapat diprediksi waktu kejadiannya, sehingga perlu adanya kesiapsiagaan dan mitigasi bencana guna mengurangi dampak negatif yang ditimbulkan.
-<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visulisasi data gempa bumi merupakan salah satu cara yang dapat digunakan untuk meningkatkan kesiapsiagaan dan mitigasi bencana gempa bumi. Dengan menyajikan data gempa bumi yang pernah terjadi di Indonesia menggunakan visualisasi data yang menarik diharapkan akan meningkatkan pemahaman masyarakat terkait dengan gempa bumi. Oleh karena itu pada penelitian ini akan dibuat dashboard yang menyajikan visualisasi data gempa bumi di wilayah teritorial Indonesia tahun 2017-2021.</p> 
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Coronavirus Disease 2019 (COVID-19) telah menjadi pandemi kurang lebih dua tahun lamanya, terhitung dari awal tahun 2020. Virus ini diduga pertama kali ditemukan di Kota Wuhan, Provinsi Hubei, Cina pada pertengahan November 2019. Sejak saat itu virus ini telah menyebar hampir ke seluruh penjuru bumi tak terkecuali Indonesia. 
+<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Berdasarkan data WHO sampai 18 Juni 2022, terdapat sedikitnya 535 juta manusia terkonfirmasi positif COVID-19 (6,3 juta diantaranya meninggal) dari 232 negara tertular. Sedangkan, berdasarkan data  Satuan Petugas COVID-19 di Indonesia terdapat sedikitnya 6 juta manusia terkonfirmasi positif (156 ribu diantaranya meninggal).
+<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Karena penyebaran COVID-19 ini sangatlah cepat. Visualisasi data COVID-19 di Indonesia merupakan salah satu cara untuk melihat penyebaran COVID-19 di setiap Provinsi yang ada di Indonesia. Dengan menyajikan data masyarakat yang positif, meninggal, dan sembuh di Indonesia menggunakan visualisasi data yang menarik diharapkan akan meningkatkan kesadaran masyarakat untuk lebih mematuhi protokol kesehatan  agar tidak mudah terserang COVID-19. Oleh karena itu, pada penelitian ini akan dibuat dashboard yang menyajikan visualisasi data penyebaran COVID-19 di provinsi yang ada di Indonesia tahun 2020-2021</p> 
 
-## B. Rumusan Masalah
-<ol>
-  <li>Belum tersedia visualisasi data gempa bumi di wilayah teritorial Indonesia tahun 2017-2021.</li>
-  <li>Belum tersedia dashboard yang menyajikan visualisasi data gempa bumi di wilayah teritorial  Indonesia tahun 2017-2021.</li>
-</ol>
-
-## C. Tujuan
+## B. Tujuan
 <ol>
   <li>Membuat visualisasi data gempa bumi di wilayah teritorial Indonesia tahun 2017-2021.</li>
   <li>Membuat dashboard yang menyajikan visualisasi data gempa bumi di wilayah teritorial Indonesia tahun 2017-2021.</li>
 </ol>
-
 <br></br>
 
 <h2 align='center'>BAB 2 <br/> KAJIAN PUSTAKA</h2>
 
-## A. Gempa Bumi
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gempa bumi merupakan salah satu bencana alam yang sering terjadi di Indonesia. Menurut Badan Meteorologi Klimatologi dan Geofisika, gempa bumi adalah peristiwa bergetarnya bumi akibat pelepasan energi di dalam bumi secara tiba-tiba yang ditandai dengan patahnya lapisan batuan pada kerak bumi. Akumulasi energi penyebab terjadinya gempa bumi dihasilkan dari pergerakan lempeng-lempeng tektonik. Energi yang dihasilkan dipancarkan ke segala arah berupa gelombang gempa bumi sehingga efeknya dapat dirasakan sampai ke permukaan bumi. Gempa bumi dengan kekuatan yang besar dapat berpotensi menimbulkan tsunami.</p>
+## A. Pandemi COVID-19 Global
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wabah COVID-19 bermulai dari Wuhan, Cina. Pada 31 Desember 2019, WHO China Country Office melaporkan kasus pneumonia yang tidak diketahui etiologinya di Kota Wuhan, Provinsi Hubei, Cina. Pada tanggal 7 Januari 2020, Cina mengidentifikasi pneumonia yang tidak diketahui etiologinya tersebut sebagai jenis baru coronavirus (coronavirus disease, COVID-19). Pada tanggal 30 Januari 2020 WHO telah menetapkan sebagai Kedaruratan Kesehatan Masyarakat Yang Meresahkan Dunia/ Public Health Emergency of International Concern (KKMMD/PHEIC). Penambahan jumlah kasus COVID-19 berlangsung cukup cepat dan sudah terjadi penyebaran antar negara.</p>
 
-## B. Visualisasi Data  
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visualisasi data merupakan cara untuk merepresentasikan data dengan tampilan yang menarik sehingga lebih mudah dipahami. Menurut Kirk (2012:17), visualisasi data adalah representasi dan penyajian data yang memanfaatkan kemampuan persepsi visual seseorang untuk memperkuat kognisi. Representasi data adalah cara seseorang memutuskan untuk menggambarkan data melalui pilihan bentuk fisik. Sedangkan penyajian data lebih dari proses representasi data, penyajian data mencakup bagaimana seseorang mengintegrasikan representasi data kedalam keseluruhan pekerjaan yang dikomunikasikan, termasuk pemilihan warna, anotasi, dan fitur interaktif. 
-<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visualisasi data memanfaatkan kemampuan persepsi visual seseorang yang berhubungan dengan pemahaman ilmiahnya tentang bagaimana mata dan otak mengolah informasi dengan lebih efektif. Sehingga dengan visualisasi data, informasi yang akan disampaikan dapat lebih mudah diterima dan dipahami. Selain itu, memperkuat kognisi pada visualisasi data merupakan proses untuk memaksimalkan seberapa efisien dan efektif seseorang dalam mengolah informasi menjadi pemikiran, wawasan dan pengetahuan.</p>
-
+## B. Penanganan Wabah COVID-19  
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; VPembatasan Sosial Berskala Besar (PSBB) merupakan kebijakan pemerintah yang dikeluarkan melalui Peraturan Pemerintah Nomor 21 Tahun 2020 tentang Pembatasan Sosial Berskala Besar Dalam Rangka Percepatan Penanganan Corona virus Disease 2019 (COVID-19). Pembatasan Sosial Berskala Besar (PSBB) adalah pembatasan kegiatan tertentu penduduk dalam suatu wilayah yang diduga terinfeksi Corona Virus Disease 2019 (COVID-19) sedemikian rupa untuk mencegah kemungkinan penyebaran Coronavirus Disease 2019 (COVID-19). Kebijakan tersebut merupakan implementasi dari pembukaan Undang-Undang Dasar Republik Indonesia alinea ke-4, dapat dimaknai dari pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 negara harus melindungi segenap bangsa Indonesia yang diimplementasikan melalui Pembatasan Sosial Berskala Besar untuk mengurangi penyebaran Corona Virus Disease 2019 (COVID-19).</p>
 <br></br>
 
 <h2 align='center'>BAB 3 <br/> METODOLOGI</h2>
 
-## A. Pengumpulan Data
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Data yang digunakan dalam penelitian ini merupakan data sekunder, yaitu Earthquake  Around Indonesian Territory dari Kaggle. Data ini juga dapat ditemukan di situs resmi Badan Meteorologi, Klimatologi, dan Geofisika (BMKG). Seperti judulnya, data ini berisi kejadian gempa bumi di sekitar wilayah Indonesia beserta keterangan waktu, lokasi, kedalaman dan besar magnitudonya dari tanggal 1 Januari 2017 hingga 12 April 2021.</p>
+## A. Identifikasi Masalah
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dalam penelitian ini, identifikasi masalah bertujuan untuk mengetahui seberapa cepat persebaran COVID-19 di Indonesia dan juga untuk melihat provinsi mana yang paling banyak terkonfirmasi COVID-19.</p>
 
-## B. Analisis Data
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Metode analisis yang digunakan pada penelitian adalah analisis deskriptif dengan pendekatan kuantitatif.</p>
+## B. Pengumpulan Data
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Pada pengumpulan data dilakukan dari objek yang di teliti, data yang digunakan diperoleh dari Kaggle. Data yang digunakan menggunakan 3 variabel yaitu, kasus terkonfirmasi positif COVID-19, kasus sembuh, dan kasus meninggal.</p>
 
-## C. Perancangan
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Visualisasi data yang akan dibuat dalam penelitian ini adalah dashboard informasi. Perancangan dimulai dengan cara membuat mock up dari desain dashboard yang akan dibuat. Sebaran titik-titik gempa akan divisualisasikan dalam peta dengan titik koordinatnya (longitude dan latitude). Frekuensi gempa akan divisualisasikan dengan menggunakan bar chart, sementara sebaran magnitudo gempa divisualisasikan dengan histogram. Visualisasi ini kemudian akan di-filter berdasarkan tahunnya.</p>
+## C. Preprocessing Data
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Preprocessing data adalah teknik pengolahan data yang digunakan untuk mengubah data mentah menjadi format yang seusai dengan kebutuhan peneliti. Proses ini dilakukan karena tidak semua data atau atribut data dalam data mentah yang didaoatkan digunakan dalam penelitian ini. Tahapan Preprocessing Data yang digunakan dalam penelitian ini adalah:</p>
+    <ol>
+      <li>Data cleaning: menghilangkan noise data yang tidak konsisten. Pada penelitian ini menghilangkan nilai kosong yang ada pada data mentah..</li>
+      <li>Data integration: sumber data yang terpecah dapat disatukan. Pada penelitian ini menyatukan sumber data yang dianggap memperoleh nilai yang sama</li>
+      <li>Data selection: data yang relevan dengan penelitian dikembalikan ke dalam database. Pada penelitian ini menghilangkan sumber data yang tidak digunakan pada penelitian dan dipilih hanya 3 sumber data saja yang digunakan.</li>
+      <li>Data transformation: data berubah atau bersatu menjadi bentuk yang tepat. Pada penelitian ini data yang dipilih dijadikan satu data yang nantinya akan digunakan untuk penelitan</li>
+   </ol>
 
-## D. Implementasi
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Implementasi dilakukan dengan cara membuat dashboard untuk menampilkan visualisasi data gempa bumi di wilayah teritorial Indonesia tahun 2017-2021 sesuai dengan mock up yang sudah dibuat pada tahap perancangan. Dashboard dibuat dengan menggunakan Tableau.
+## D. Pembuatan Visualisasi
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Setelah dilakukan preprocessing data dan mendapatkan data yang sesuai untuk penelitian. Selanjutya melakukan visualisasi pada data terpilih. Variabel yang digunakan untuk pembuatan visualisasi data menggunakan 3 variabel yaitu, kasus terkonfirmasi positif COVID-19, kasus sembuh, dan kasus meninggal. Software yang digunakan untuk visualisasi data pada penelitian ini adalah Tableau.
 </p>
+
+## E. Dashboard Informasi
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Apabila visualisasi data telah dibuat. Selanjutnya membuat dashboard informasi yang hasilnya diunggah ke Tableau Public. Hasil dari dashboard informasi dapat dilihat di link berikut:</p> <a href="https://public.tableau.com/app/profile/dodik.setyawan/viz/DashboardInformasiCOVID-19DiIndonesia/Dashboard1">Tableau Public</a>
+
+Berikut adalah tampilan dashboard yang sudah dibangun:
+
+![Dashboard](img/Dashboard informasi.png)
 
 <br></br>
 
 <h2 align='center'>BAB 4 <br/> HASIL DAN PEMBAHASAN </h2>
 
 ## A. Pengolahan Data
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Data yang digunakan dalam penelitian ini tidak memiliki missing value sehingga data dapat langsung digunakan. Selanjutnya data ditambahkan kategori day dan night. Day digunakan untuk mengkategorikan gempa bumi yang terjadi pada siang hari, sedangkan night digunakan untuk mengkategorikan gempa bumi yang terjadi pada malam hari.</p>
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Data yang digunakan dalam penelitian ini memiliki missing value sehingga harus dilakukan penghapusan pada missing value tersebut sebelum datanya digunakan. Melakukan penghapusan variabel yang tidak digunakan dan juga memilih variabel variable yang digunakan saja</p>
 
-## B. Visualisasi Data
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Visualisasi data yang digunakan dalam penelitian ini disesuaikan dengan kebutuhan informasi yang perlu disampaikan dari data yang akan disajikan. Berikut adalah visualisasi data yang dibuat pada penelitian ini:</p>  
+## B. Cloropleth
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warna pada visualisasi data persebaran COVID-19 di Indonesia menggambarkan total kasus terkonfirmasi COVID-19, dengan total kasus terbanyak digambarkan dengan perubahan warna dari merah sampai biru.</p>
 
-### 1. Visualisasi data persebaran gempa bumi di wilayah teritorial Indonesia  
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warna pada visualisasi data persebaran gempa bumi di Indonesia menggambarkan kedalaman dari pusat gempa, dengan kedalaman terdangkal sampai terdalam digambarkan dengan perubahan warna dari merah sampai biru. Sedangkan ukuran bubble menggambarkan kekuatan magnitudo gempa, semakin besar ukurannya semakin tinggi magnitudo gempanya.</p>  
+![cloro](img/cloropleth gabungan.png)
 
-![Map](/img/map.png)
+## B. Line Chart
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tren menaik pada visualisas data total kematian COVID-19 di Indonesia menggambarakan total kematian yang terus bertambah tiap bulannya. Sedangkan, tren menurun menggambarkan total kematian yang berkurang</p>
 
-### 2. Visualisasi data frekuensi gempa bumi di wilayah teritorial Indonesia per bulan dalam setahun
+![line](img/total kematian gabungan.png)
 
-![Frekuensi](/img/frekuensi.png)
+## C. Barchart perbandingan
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warna biru pada visualisasi data menggambarkan total kasus terkonfirmasi COVID-19 di Indonesia. Sedangkan, warna jingga pada visualisasi data menggambarkan total recovery</p>
 
-### 3. Visualisasi data frekuensi gempa bumi di wilayah teritorial Indonesia per bulan dalam setahun, serta kategori day dan night
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warna orange untuk kategori day (gempa bumi yang terjadi pada siang hari) dan warna biru untuk kategori night (gempa bumi yang terjadi pada malam hari).</p>
+![bar](img/perbandingan total kasus dan total recovered gabungan.png)
 
-![DayNight](/img/daynight.png)
+## C. Barchart proporsi
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Warna merah pada visualisasi data menggambarkan proporsi kematian yang disebabkan COVID-19 Sedangkan, warna jingga pada visualisasi data menggambarkan proporsi recovery</p>
 
-### 4. Visualisasi data magnitude gempa bumi di wilayah teritorial Indonesia dalam bentuk histogram
-
-![Histogram](/img/histogram.png)
-
-## C. Dashboard
-Visualisasi data yang sudah dibuat selanjutnya akan diintegrasikan menjadi satu kesatuan dalam suatu dashboard. Dashboard yang dibuat akan ditampilkan pada aplikasi web menggunakan aplikasi Tableau Public yang linknya dapat diakses
-  [di sini](https://public.tableau.com/views/DashboardGempaDiBumiIndonesia/DS2017?:language=en-US&:display_count=n&:origin=viz_share_link "Dashboard Gempa Bumi").
-  <br></br>
-Berikut adalah tampilan dashboard yang sudah dibangun:
-
-![Dashboard](/img/dashboard.png)
+![bar](img/proporsi total death dan total recovered gabungan.png)
 
 <br></br>
 
 <h2 align='center'>BAB 5 <br/> PENUTUP</h2>
 
-## A. Kesimpulan
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dashboard yang dibangun sudah mampu menampilkan visualisasi data gempa bumi di wilayah teritorial Indonesia tahun 2017-2021. Visualisasi data yang dibuat pada penelitian ini sudah cukup untuk menggambarkan informasi dasar terkait gempa bumi di Indonesia seperti frekuensi gempa bumi, kekuatan dan kedalaman gempa bumi, serta persebaran gempa bumi di Indonesia.</p>  
-
-## B. Saran
-<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Berikut adalah saran untuk pengembangan lebih lanjut visualisasi data gempa bumi di Indonesia:
-<ol>
-  <li>Pada visualisasi data persebaran gempa bumi, dapat disajikan persebaran gempa bumi berdasarkan provinsi dan disertai dengan batas wilayah yang jelas.</li>
-  <li>Dapat ditambahkan ringkasan kejadian gempa untuk masing-masing provinsi.</li>
-  <li>Dapat dibuat klasifikasi wilayah yang rawan gempa atau tidak.</li>
-</ol>
-</p>  
-
-<br></br>
-
-<h2 align='center'> DAFTAR PUSTAKA </h2>
-
-<p align='justify'>
- <ol>
-   <li>Badan Meteorologi Klimatologi dan Geofisika. 2021.“Apakah Gempabumi itu?”. Dalam http://inatews2.bmkg.go.id/. Diunduh pada 1 Juni 2021.
-</li>
-   <li>Kirk, Andy. 2012. Data Visualization: a successful design process. Birmingham. Packt Publishing Ltd.
-</li>
-</ol>
-</p>
-
-<br></br>
-## Kelompok 2 Tugas Akhir Mata Kuliah Visualisasi Data 3SD2
-- Daris Azhar	(221810233) 
-- Emir Lutfi	(221810266)
-- Joice Evangelista Lase	(221810359)
-- Muhammad Ibrah Reynaldi Tanjung	(221810459)
-- Talitha Nabila Saifana	(221810619)
-- Zuhrotur Rofiah	(221810682)
+## A. Kesimpulan dan Saran
+<p align='justify'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Berdasarkan empat macam visualisasi yang dibuat dapat disimpulkan bahwa penyebaran COVID-19 memang sangat cepat dapat dilihat pada visualisasi perbandingan total kasus dan total orang sembuh. Awal masuknya COVID-19 di Indonesia hanya terdapat dua kasus tetapi setelah berjalan selama dua tahun total kasus semakin bertambah dan baru terjadi penurunan pada bulan Desember 2021. Meskipun penyebaran COVID-19 sangat cepat, tetapi perbandingan proporsi total kematian dengan total orang sembuh, masih lebih banyak proporsi total orang sembuh. Hal ini menandakan bahwa penyebaran COVID-19 memang cepat tetapi tidak terlalu mematikan meskipun angka yang dihasilkan dari total kematian begitu banyak, tetapi total orang yang sembuh juga lebih banyak daripada total kematian yang disebabkan oleh COVID-19..</p>   
